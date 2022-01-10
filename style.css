@@ -679,11 +679,10 @@ body{
 	.MW{
 		padding: 0 50px;
 	}
-	.home{
-		background: url("all images\\emmanuel.JPEG");
+	.home {
+		background: url("all images\\VisionBoardCC.JPEG");
 		background-size: 100%;
 		background-position-y: 70px;
-		
 	}
 	.navibar .menu{
 		position: fixed;
